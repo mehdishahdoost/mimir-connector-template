@@ -2,13 +2,13 @@
 "metadata": {
   "name": "mimir-gmail",
    "description": "A Model Context Protocol (MCP) server that gives AI assistants full access to Gmail 
-  — read, send, search, draft, label, and manage emails through natural language.",
+   read, send, search, draft, label, and manage emails through natural language.",
    "commands": ["npm i mimir-gmail", "npx mimir-gmail auth", "npx mimir-gmail"],
     "variables": [
       {
         "id": 1, 
         "name": "GOOGLE_OAUTH_CLIENT_ID",
-         "description": your client Id"",
+         "description": "your client Id",
          "url": "https://console.cloud.google.com/"
       },
      {
