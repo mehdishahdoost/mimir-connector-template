@@ -18,6 +18,7 @@
       }
     ]
 },
+"mcp-server":{  
 "gmail": {
       "command": "npx",
       "args": ["mimir-gmail"],
@@ -26,4 +27,5 @@
         "GOOGLE_OAUTH_CLIENT_SECRET": <<2>>
       }
     }
+}
   }
